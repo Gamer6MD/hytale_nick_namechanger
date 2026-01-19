@@ -28,6 +28,9 @@ By default, the script targets:
 ## ⚠️ Important Note
 This script only modifies the `Name =` parameter. It **does not** change your `UUID`, ensuring your save data or identity tied to that ID remains intact.
 
+## ⚖️ Disclaimer
+* **Affiliation:** This project is **not** affiliated, associated, or in any way officially connected with **OnlineFix** or the developers of **Hytale**.
+
 ---
 **Created by:** GamerMD  
 **Version:** 1.0  
